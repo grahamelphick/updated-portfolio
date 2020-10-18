@@ -12,6 +12,7 @@ h1  {
 
 p {
     font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
 }
 
 .btn-primary {
@@ -58,4 +59,11 @@ p {
 
 #contactinfo {
     text-align: center;
+}
+
+.project-title {
+    font-style: italic;
+    font-size: 20px;
+    color: #6794F6;
+    font-weight: bold;
 }
